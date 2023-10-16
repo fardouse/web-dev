@@ -1,0 +1,6 @@
+[
+    {"title":"Calculate BMI", "text":"Calculate your Body Mass Index (BMI) to assess your overall health", "link":"bmi", "icon":"calculate", "button":"Go to BMI Calculator"},
+    {"title":"Calorie Counter", "text":"Track your daily calorie intake and manage your diet", "link":"calorie-counter", "icon":"monitor_heart", "button":"Go to Calorie Counter"},
+    {"title":"My DietPlan", "text":"Track & manage your diet with a personalized plan", "link":"diet-plan", "icon":"fastfood", "button":"Go to My DietPlan"}
+    
+]
